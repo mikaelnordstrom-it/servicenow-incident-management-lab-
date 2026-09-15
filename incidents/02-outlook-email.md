@@ -32,6 +32,5 @@ Outlook was set to **Work Offline**, preventing new emails from being synchroniz
 Work Offline was disabled in Outlook. The connection to Microsoft 365 was restored and the user confirmed that new emails were being received.
 
 ## Screenshot
-
-incidents/Skärmbild 2026-09-15 090621.png
+![Resolved Outlook incident](02-outlook-email.png)
 
