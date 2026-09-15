@@ -30,5 +30,4 @@ The user's Active Directory account was locked.
 The account was unlocked in Active Directory and the user was able to log in successfully.
 
 ## Screenshot
-
-![Resolved ServiceNow incident](../screenshots/01-windows-login.png)
+![Resolved ServiceNow incident](Skärmbild%202026-09-15%20081102.png)
