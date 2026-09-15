@@ -36,5 +36,7 @@ The firewall rule was corrected to allow SMB traffic to the file server. The use
 
 ## Screenshot
 
-![Resolved network drive incident](SCREENSHOT_FILENAME)
+![Resolved network drive incident](Skärmbild%202026-09-15%20093135.png)
+
+![Resolved network drive incident](Skärmbild%202026-09-15%20093153.png)
 
