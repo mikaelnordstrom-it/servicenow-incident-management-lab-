@@ -15,11 +15,11 @@ A user was unable to log in to Windows.
 
 ## ServiceNow
 
-- Incident created and documented in ServiceNow.
-- Status changed from **New → In Progress → Resolved**.
-- Troubleshooting actions documented.
-- Resolution code: **Solution provided**.
-- Resolution notes added.
+* Incident created and documented in ServiceNow.
+* Status changed from **New → In Progress → Resolved**.
+* Troubleshooting actions documented.
+* Resolution code: **Solution provided**.
+* Resolution notes added.
 
 ## Root Cause
 
