@@ -33,5 +33,5 @@ Work Offline was disabled in Outlook. The connection to Microsoft 365 was restor
 
 ## Screenshot
 
-![Resolved Outlook incident](02-outlook-email.png)
+incidents/Skärmbild 2026-09-15 090621.png
 
